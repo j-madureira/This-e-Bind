@@ -1,0 +1,4 @@
+- Crie uma função que receberá this.propriedade
+- Crie um objeto que possua a propriedade que está na função
+- Crie uma function que receberá a função criada antes e dê o contexto 
+para o objeto
